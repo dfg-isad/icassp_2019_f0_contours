@@ -1,5 +1,7 @@
 # Code Repository
 
+## Introduction
+
 This page contains the data & python scripts to reproduce the classification experiments reported in
 
 ```
@@ -9,8 +11,9 @@ This page contains the data & python scripts to reproduce the classification exp
   booktitle = {Proceedings of the 44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)},
   year =      {2019}
 }
+``
 
-# Python environment
+## Python environment
 
 * In order to set-up the python environment, please install miniconda on your system, then run
 
@@ -18,7 +21,7 @@ This page contains the data & python scripts to reproduce the classification exp
 conda env create -f environment.yml
 ```
 
-# Data preparation
+## Data preparation
 
 * Download the dataset from https://zenodo.org/record/2800393#.XNr8A9NKgWo and copy it into the ```/data```
 folder
