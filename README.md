@@ -23,6 +23,7 @@ conda env create -f conda_env.yml
 
 ## Data preparation
 
+* Create a subfolder entitled ```data```
 * Download the dataset from [Zenodo](https://zenodo.org/record/2800393#.XNr8A9NKgWo) and copy it into the ```data```
 folder
 
