@@ -18,7 +18,7 @@ This page contains the data & python scripts to reproduce the classification exp
 * In order to set-up the python environment, please install miniconda on your system, then run
 
 ```
-conda env create -f environment.yml
+conda env create -f conda_env.yml
 ```
 
 ## Data preparation
