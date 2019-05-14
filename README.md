@@ -11,7 +11,7 @@ This page contains the data & python scripts to reproduce the classification exp
   booktitle = {Proceedings of the 44th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)},
   year =      {2019}
 }
-``
+```
 
 ## Python environment
 
@@ -23,13 +23,14 @@ conda env create -f environment.yml
 
 ## Data preparation
 
-* Download the dataset from https://zenodo.org/record/2800393#.XNr8A9NKgWo and copy it into the ```/data```
+* Download the dataset from [Zenodo](https://zenodo.org/record/2800393#.XNr8A9NKgWo) and copy it into the ```data```
 folder
 
-# Run
+## Run experiments
 
 * Run the experiments using 
 ```
 python main.py
 ```
+* The results will be saved in the ```results``` folder
 # 
