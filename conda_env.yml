@@ -1,0 +1,39 @@
+name: icassp_2019_f0
+dependencies:
+- blas=1.0=mkl
+- mkl=2017.0.3=0
+- numpy=1.11.3=py34_0
+- openssl=1.0.2l=0
+- pandas=0.19.2=np111py34_1
+- pip=9.0.1=py34_1
+- python=3.4.5=0
+- python-dateutil=2.6.1=py34_0
+- pytz=2017.2=py34_0
+- readline=6.2=2
+- scikit-learn=0.18.1=np111py34_1
+- scipy=0.18.1=np111py34_1
+- setuptools=27.2.0=py34_0
+- six=1.10.0=py34_0
+- sqlite=3.13.0=0
+- tk=8.5.18=0
+- wheel=0.29.0=py34_0
+- xz=5.2.3=0
+- zlib=1.2.11=0
+- pip:
+  - absl-py==0.7.1
+  - astor==0.7.1
+  - gast==0.2.2
+  - grpcio==1.20.1
+  - h5py==2.9.0
+  - keras==2.2.4
+  - keras-applications==1.0.7
+  - keras-preprocessing==1.0.9
+  - markdown==3.0.1
+  - protobuf==3.7.1
+  - pyyaml==5.1
+  - tensorboard==1.10.0
+  - tensorflow==1.10.0
+  - termcolor==1.1.0
+  - werkzeug==0.15.2
+prefix: /Users/jakobabeer/miniconda3/envs/icassp_2019_f0
+
